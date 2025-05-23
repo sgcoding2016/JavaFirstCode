@@ -34,17 +34,17 @@ Edit
 javac FileName.java
 java FileName
 
-Requirements
+## Requirements
 Java JDK 8 or newer
 
 Any IDE like Eclipse, IntelliJ, or VS Code
 
-Topics Covered
+## Topics Covered
 Java syntax basics
 
 Data storage
 
 Class structure and execution
 
-License
+## License
 This project is licensed under the MIT License.
