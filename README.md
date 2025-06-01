@@ -8,6 +8,7 @@ Currently available:
 
 - `DataStorage.java` — A sample program for storing and managing simple data.
 - `WeatherReportingAgain.java` — Analyzes temperatures and sunshine over 5 days, calculates average temperature, and prints daily/weekly weather statistics.
+- `DeclaringAndUsingVars.java` — Simple beginner example of declaring and using variables.
 
 > **Note:** `HelloWorld.java` was part of an earlier branch (`main`) and is no longer included in the current `master` branch.
 
@@ -16,17 +17,21 @@ Currently available:
 FirstCode/
 └── src/
 └── first/
-└── DataStorage.java
+├── DataStorage.java
+├── WeatherReportingAgain.java
+└── DeclaringAndUsingVars.java
 
 ## How to Use
 
 1. Clone the repo:
    ```bash
    git clone https://github.com/sgcoding2016/JavaFirstCode.git
-Navigate to the project folder and compile:
+   cd JavaFirstCode/FirstCode/src/first
 
-javac FileName.java
-java FileName
+2. Compile and run a file:
+
+   javac FileName.java
+   java FileName
 
 ## Requirements
 Java JDK 8 or newer
