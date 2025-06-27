@@ -12,6 +12,7 @@ Currently available:
 - `HelloWorld.java` — Prints a classic "Hello World" message and a simple ASCII art Christmas tree.
 - `IfStatement` — Demonstrates basic variable assignment, arithmetic operations, and a simple `if` condition to check whether a calculated sum exceeds a threshold.
 - `LabExercise17Sept.java` — Demonstrates Java `String` manipulation methods (e.g. `.length()`, `.charAt()`, `.toUpperCase()`, `.replace()`, `.indexOf()`) and basic integer division.
+- `MakingDecisions.java` — Uses multiple `if` statements to compare two integers and determine which is larger (or if they are equal), demonstrating basic decision-making in Java.
 
 > **Note:** A previous version of `HelloWorld.java` was part of an earlier branch (`main`) and is no longer included in the current `master` branch.
 
@@ -25,7 +26,8 @@ FirstCode/
 ├── DeclaringAndUsingVars.java
 ├── HelloWorld.java
 ├── IfStatement.java
-└── LabExercise17Sept.java
+├── LabExercise17Sept.java
+└── MakingDecisions.java
 
 
 ## How to Use
