@@ -10,6 +10,7 @@ Currently available:
 - `WeatherReportingAgain.java` — Analyzes temperatures and sunshine over 5 days, calculates average temperature, and prints daily/weekly weather statistics.
 - `DeclaringAndUsingVars.java` — Simple beginner example of declaring and using variables.
 - `HelloWorld.java` — Prints a classic "Hello World" message and a simple ASCII art Christmas tree.
+- `IfStatement` — Demonstrates basic variable assignment, arithmetic operations, and a simple `if` condition to check whether a calculated sum exceeds a threshold. 
 
 > **Note:** A previous version of `HelloWorld.java` was part of an earlier branch (`main`) and is no longer included in the current `master` branch.
 
@@ -21,7 +22,8 @@ FirstCode/
 ├── DataStorage.java
 ├── WeatherReportingAgain.java
 ├── DeclaringAndUsingVars.java
-└── HelloWorld.java
+├── HelloWorld.java
+└── IfStatement.java
 
 
 ## How to Use
