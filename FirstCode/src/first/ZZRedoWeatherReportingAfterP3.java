@@ -41,7 +41,7 @@ public class ZZRedoWeatherReportingAfterP3 {
 		System.out.println("Day 2");
 		System.out.printf("Temp \t: %.1f ",tempDay2);
 		System.out.println("\nSun \t: " + sunDay2);
-		if (tempDay1>=avgTempWeek) {
+		if (tempDay2>=avgTempWeek) {
 			System.out.println("Above average temp");
 		}
 		System.out.println("______________________");
@@ -49,7 +49,7 @@ public class ZZRedoWeatherReportingAfterP3 {
 		System.out.println("Day 3");
 		System.out.printf("Temp \t: %.1f ",tempDay3);
 		System.out.println("\nSun \t: " + sunDay3);
-		if (tempDay1>=avgTempWeek) {
+		if (tempDay3>=avgTempWeek) {
 			System.out.println("Above average temp");
 		}
 		System.out.println("______________________");
@@ -57,7 +57,7 @@ public class ZZRedoWeatherReportingAfterP3 {
 		System.out.println("Day 4");
 		System.out.printf("Temp \t: %.1f ",tempDay4);
 		System.out.println("\nSun \t: " + sunDay4);
-		if (tempDay1>=avgTempWeek) {
+		if (tempDay4>=avgTempWeek) {
 			System.out.println("Above average temp");
 		}
 		System.out.println("______________________");
@@ -65,7 +65,7 @@ public class ZZRedoWeatherReportingAfterP3 {
 		System.out.println("Day 5");
 		System.out.printf("Temp \t: %.1f ",tempDay5);
 		System.out.println("\nSun \t: " + sunDay5);
-		if (tempDay1>=avgTempWeek) {
+		if (tempDay5>=avgTempWeek) {
 			System.out.println("Above average temp");
 		}
 		System.out.println("______________________");
