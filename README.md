@@ -9,8 +9,9 @@ Currently available:
 - `DataStorage.java` — A sample program for storing and managing simple data.
 - `WeatherReportingAgain.java` — Analyzes temperatures and sunshine over 5 days, calculates average temperature, and prints daily/weekly weather statistics.
 - `DeclaringAndUsingVars.java` — Simple beginner example of declaring and using variables.
+- `HelloWorld.java` — Prints a classic "Hello World" message and a simple ASCII art Christmas tree.
 
-> **Note:** `HelloWorld.java` was part of an earlier branch (`main`) and is no longer included in the current `master` branch.
+> **Note:** A previous version of `HelloWorld.java` was part of an earlier branch (`main`) and is no longer included in the current `master` branch.
 
 ## Folder Structure
 
@@ -19,7 +20,9 @@ FirstCode/
 └── first/
 ├── DataStorage.java
 ├── WeatherReportingAgain.java
-└── DeclaringAndUsingVars.java
+├── DeclaringAndUsingVars.java
+└── HelloWorld.java
+
 
 ## How to Use
 
