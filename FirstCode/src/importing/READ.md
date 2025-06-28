@@ -21,9 +21,11 @@ This folder contains beginner-level Java exercises focused on **user input**, **
 1. Compile the desired file:
    ```bash
    javac Exercise1.java
-Run it:
+
+2. Run it:
 
 java importing.Exercise1
+
 Replace Exercise1 with Exercise2, Exercise3, or Exercise4 to try the others.
 
 Requirements
