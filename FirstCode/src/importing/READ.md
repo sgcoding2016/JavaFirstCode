@@ -21,6 +21,16 @@ Calculates the perimeter and area of a square. The side length is input by the u
 ### Exercise4.java  
 Takes a whole number input from the user and computes its square root using `Math.sqrt()`.
 
+## Folder Structure
+
+FirstCode/
+└── src/
+└── importing/
+├── Exercise1.java
+├── Exercise2.java
+├── Exercise3.java
+└── Exercise4.java
+
 ## How to Use
 
 Navigate to this directory, then compile and run a file:
