@@ -13,6 +13,7 @@ Currently available:
 - `IfStatement` — Demonstrates basic variable assignment, arithmetic operations, and a simple `if` condition to check whether a calculated sum exceeds a threshold.
 - `LabExercise17Sept.java` — Demonstrates Java `String` manipulation methods (e.g. `.length()`, `.charAt()`, `.toUpperCase()`, `.replace()`, `.indexOf()`) and basic integer division.
 - `MakingDecisions.java` — Uses multiple `if` statements to compare two integers and determine which is larger (or if they are equal), demonstrating basic decision-making in Java.
+- `ZZRedoWeatherReportingAfterP3.java` — A refined version of the weather reporting program. Initially added for structure and basic functionality, later updated to correct temperature comparisons and improve clarity in output formatting.
 
 > **Note:** A previous version of `HelloWorld.java` was part of an earlier branch (`main`) and is no longer included in the current `master` branch.
 
@@ -27,7 +28,8 @@ FirstCode/
 ├── HelloWorld.java
 ├── IfStatement.java
 ├── LabExercise17Sept.java
-└── MakingDecisions.java
+├── MakingDecisions.java
+└── ZZRedoWeatherReportingAfterP3.java
 
 
 ## How to Use
