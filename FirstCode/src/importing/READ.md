@@ -21,7 +21,7 @@ Calculates the perimeter and area of a square. The side length is input by the u
 ### Exercise4.java
 Takes a whole number input from the user and computes its square root using `Math.sqrt()`.
 
-# How to Use
+## How to Use
 
 Navigate to this directory, then compile and run a file:
 
@@ -32,12 +32,12 @@ Repeat with Exercise2, Exercise3, or Exercise4 as needed.
 
 Note: Ensure you're in the src folder when compiling if using package names.
 
-# Requirements
+## Requirements
 Java JDK 8 or newer
 
 Any IDE (Eclipse, IntelliJ, VS Code) or command-line terminal with javac and java
 
-# Topics Covered
+## Topics Covered
 Java Scanner input handling
 
 Conditional statements (if, else)
