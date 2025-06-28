@@ -31,13 +31,13 @@ java importing.Exercise1
 Repeat with Exercise2, Exercise3, or Exercise4 as needed.
 
 Note: Ensure you're in the src folder when compiling if using package names.
-
-Requirements
+```
+## Requirements
 Java JDK 8 or newer
 
 Any IDE (Eclipse, IntelliJ, VS Code) or terminal with javac and java
 
-Topics Covered
+## Topics Covered
 Java Scanner input handling
 
 Conditional statements (if, else)
