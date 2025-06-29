@@ -6,7 +6,7 @@ package first;
 /**
  * 
  */
-public class ZRedoWeatherReporting {
+public class ZReWeatherReporting {
 
 	/**
 	 * @param args
@@ -14,18 +14,18 @@ public class ZRedoWeatherReporting {
 	public static void main(String[] args) {
 		double tempDay1=15.5,tempDay2=10.5,tempDay3=16,tempDay4=12.5,tempDay5=17, avgTemp=0;//could be an array of numbers
 																							//and a for loop in printBlocks method
-		double[] tempDay=new double[] {15.5,10.5};//only used a couple of data points																					//that selects day index and then temp
+		double[] tempDay=new double[] {15.5,10.5,16,12.5,17};//only used a couple of data points																					//that selects day index and then temp
 																							//and then boolean for sun
 																							//and then finally the message method
 		boolean sunDay1=false,sunDay2=false,sunDay3=false,sunDay4=false,sunDay5=false;
-		boolean[] sunDay=new boolean[] {true, false};
+		boolean[] sunDay=new boolean[] {true, false,true,true,false};
 		int totalSunDays=0;
 		
 		
 		avgTemp=(tempDay1+tempDay2+tempDay3+tempDay4+tempDay5)/5;
 		
 //		System.out.println(message(tempDay1,avgTemp));
-		
+		System.out.println("Weather Analysis");
 		printBlocks(tempDay,avgTemp,sunDay);
 
 	}
@@ -71,3 +71,4 @@ public class ZRedoWeatherReporting {
 	}
 
 }
+
